@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gm0xu3FKJPv2M3ql10TM21fdYSNe/cwoXCAFswP5VRWJEsFy6H6PFSJkM7Jk7liR2s5UWnelTldaHA9rz9CfZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\Agent Mesagerie\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
